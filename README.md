@@ -1,4 +1,4 @@
-## Hi there 👋
+## oi 👋
 
 <!--
 **yuuri1910/yuuri1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
